@@ -1,6 +1,8 @@
 # React Design Patterns
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/289b8809-a929-43a7-9dfb-4c3dc81ca47a/deploy-status)](https://app.netlify.com/sites/reactjs-patterns/deploys)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 A comprehensive collection of modern React design patterns and best practices, built with Next.js.
 
@@ -48,10 +50,23 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/) - v4
 
+## 📊 Project Status
+
+Current version: 1.0.0  
+Latest release: [v1.0.0](https://github.com/yourusername/react-patterns/releases/tag/v1.0.0)
+
 ## 📚 Learn More
 
 To explore each pattern in detail, navigate through the site sections or check the source code in the corresponding directories.
 
 ## 📄 License
 
-This project is available for educational purposes.
+This project is available for educational purposes under the MIT License.
+
+## 👥 Contributors
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## 📌 Tags
+
+`react`, `design-patterns`, `nextjs`, `typescript`, `tailwindcss`, `education`, `frontend`
