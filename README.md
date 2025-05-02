@@ -63,10 +63,6 @@ To explore each pattern in detail, navigate through the site sections or check t
 
 This project is available for educational purposes under the MIT License.
 
-## 👥 Contributors
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
 ## 📌 Tags
 
 `react`, `design-patterns`, `nextjs`, `typescript`, `tailwindcss`, `education`, `frontend`
